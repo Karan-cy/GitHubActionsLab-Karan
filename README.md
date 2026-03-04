@@ -1,1 +1,1 @@
-ICE 5 - GitHub Actions Lab
+ICE 5 GitHub Actions Lab
